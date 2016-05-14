@@ -22,7 +22,5 @@ public class LottoGenerator{
 			balls.add(machine.get(i));
 		}
 		System.out.println(balls);
-		Collections.sort(balls);
-		System.out.println(balls);
 	}//커밋용 ㅋㅋㅋ
 }
